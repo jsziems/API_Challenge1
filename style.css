@@ -1,0 +1,29 @@
+body {
+    background-color: #6993b8;
+}
+
+#logo-w-graphic {
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    display: block;
+}
+
+h1 {
+    margin-top: 25px;
+    text-align: center;
+    color: #2e4a62;
+
+}
+
+h5 {
+    margin-top: 40px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
