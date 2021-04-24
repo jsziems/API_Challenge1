@@ -2,7 +2,6 @@
 const apiUrl = 'https://ghibliapi.herokuapp.com/locations';
 
 const getAndDisplayLocations = async () => {
-
     // Get data from the 'locations' endpoint.
     let response = await fetch(apiUrl);
     let resultsData = await response.json();
